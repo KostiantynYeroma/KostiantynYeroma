@@ -2,12 +2,6 @@
 
 **Senior Full Stack Developer** specializing in **React, Next.js, Node.js, and TypeScript** with 10+ years of experience delivering scalable web applications.
 
-🌍 Based in Rotterdam, Netherlands  
-💼 Worked with clients across the **USA, Canada, and the UK**  
-🧠 Passionate about building **AI-powered, high-performance, and user-friendly** web solutions  
-
----
-
 ### 🧩 About Me  
 I’m a results-driven developer with a strong background in **frontend architecture** and **full-stack development**.  
 My focus is on writing **clean, maintainable code**, optimizing performance, and crafting seamless user experiences.  
@@ -40,29 +34,9 @@ Developed complex UI components and integrated Google Extensions for document au
 
 ---
 
-### 🎓 Education  
-- **MSc, Computer Science**, Kyiv National Technical University (2016–2018)  
-- **BSc, Computer Science**, Kyiv National Technical University (2012–2016)  
-
----
-
 ### 🏆 Certifications  
 - **Senior Node Backend Developer** – Coursera  
 - **Senior React Frontend Developer** – Coursera  
-
----
-
-### 🌐 Connect  
-📫 **Email:** [your.email@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/kostiantyn-yeroma](#)  
-🖥️ **Portfolio:** [your-portfolio-link.com](#)  
-🐙 **GitHub:** [github.com/kostiantyn-yeroma](#)  
-
----
-
-### 💬 Languages  
-🇺🇦 Ukrainian – Native  
-🇬🇧 English – Advanced  
 
 ---
 
