@@ -76,11 +76,4 @@ My focus is on writing **clean, maintainable code**, optimizing performance, and
 <br><br>
 </div>
 
----
-
-### 🔍 SEO Keywords  
-`Senior Full Stack Developer` · `React Developer` · `Next.js Engineer` · `Node.js Developer` · `JavaScript Expert` · `TypeScript` · `Web Developer Rotterdam` · `AI-powered web apps` · `OpenAI integration` · `GPT-4 developer`
-
----
-
 ⭐ **“Clean code, scalable architecture, and human-centered design — that’s my approach to modern web development.”**
